@@ -1,0 +1,30 @@
+# LaTeX auxiliary files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.pdf
+*.snm
+*.synctex.gz
+*.toc
+
+# Backup and temporary files
+*~
+*.bak
+*.tmp
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+package-lock.json
+
+# Images from slides
+#output/
+*Zone.Identifier
+
+# Ambiente Python
+.venv/

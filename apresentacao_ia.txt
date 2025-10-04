@@ -1,0 +1,667 @@
+Inteligência Artificial Generativa
+Seu Novo Aliado Acadêmico
+
+Ferramentas, Ética e Futuro para Estudantes Universitários
+Unesp
+
+14 de setembro de 2025
+
+Æ j 
+1 / 49
+
+Inteligência Artificial
+
+2 / 49
+
+O que é Inteligência Artificial Generativa?
+
+Definição Simples
+IA que cria novos conteúdos:
+@ Textos e artigos
+ë Imagens e gráficos
+Å Vı́deos e animações
+Y Música e áudio
+Ð Código de programação
+
+Diferencial
+
+Não apenas analisa
+MAS CRIA!
+
+3 / 49
+
+4 / 49
+
+Modelos de Linguagem de Grande Escala (LLMs)
+
+Processo Simplificado
+1
+2
+3
+
+Coleta: Milhões de exemplos de texto
+Aprendizado: Identifica padrões e relações
+Predição: Gera próximas palavras baseado no contexto
+
+5 / 49
+
+Exemplos do Cotidiano
+
+Você já usa IA Generativa!
+Ü Chatbots de atendimento
+# Sugestões de email do Gmail
+ Filtros do Instagram/TikTok
+ù Autocorretor do celular
+Y Recomendações do Spotify
+
+Novas Possibilidades
+Æ ChatGPT, Gemini
+ë Imagen, Midjourney
+Ð GitHub Copiloti, Replit
+Å Runway, Luma AI, Veo3
+
+6 / 49
+
+Ferramenta em Destaque: Google NotebookLM
+[ O que é?
+Assistente de estudo baseado em IA
+Integra com seus documentos e anotações
+Responde perguntas especı́ficas sobre seu material
+
+ Casos de Uso
+Revisão rápida para provas
+Sı́ntese de artigos longos
+Geração de resumos personalizados
+Criação de flashcards para memorização
+Saiba mais sobre o NotebookLM
+7 / 49
+
+A Terceira Mudança Fundamental no Software
+
+Visão de Andrej Karpathy (ex-Tesla, OpenAI)
+Estamos vivendo uma nova era na programação, tão impactante quanto as anteriores.
+
+Software 1.0
+
+Software 2.0
+
+Software 3.0
+
+Ð
+Código tradicional escrito
+por humanos.
+
+Ü
+ú
+Redes neurais treinadas com LLMs programados com
+linguagem natural (inglês!).
+dados (pesos = código).
+
+8 / 49
+
+LLMs como um Novo Sistema Operacional
+Três Propriedades Simultâneas
+W Utilidades Pagamento por uso, APIs medidas (como eletricidade).
+> Fábricas de Chips CAPEX massivo, tecnologia centralizada.
+ø Sistemas Operacionais Ecossistemas complexos, não commodities.
+
+Analogia Histórica
+z Estamos nos ”anos 1960”dos LLMs: caros, centralizados e em time-sharing. A
+revolução do ”computador pessoal”para IA ainda não aconteceu.
+
+9 / 49
+
+A Psicologia dos LLMs: ”Espı́ritos de Pessoas”
+
+q Déficits Cognitivos
+⋆ Superpoderes
+Memória enciclopédica
+Conhecimento vasto
+
+Alucinações (inventa fatos)
+Inteligência irregular
+”Amnésia”entre sessões
+Vulnerabilidades de segurança
+
+10 / 49
+
+Oportunidade 1: Apps de Autonomia Parcial
+å Princı́pio Chave: Humano no Loop
+Manter o ciclo Geração (IA) $ Verificação (Humano) o mais rápido possı́vel.
+
+Exemplos: Cursor (código), Perplexity (pesquisa)
+GUI especı́fica para auditoria humana rápida.
+”Slider de autonomia”: você controla o nı́vel de independência.
+Orquestração de múltiplos LLMs.
+Gestão de contexto automática.
+
+11 / 49
+
+Oportunidade 2: ”Vibe Coding”
+
+² Todos São Programadores Agora
+Programação em linguagem natural democratiza o desenvolvimento.
+Crianças e não-técnicos podem criar.
+Autor construiu apps iOS e web sem saber a linguagem nativa.
+
+. Gargalo Real
+O desafio muda do código para a infraestrutura e DevOps.
+
+12 / 49
+
+Oportunidade 3: Construir para Agentes
+
+Æ A Nova Categoria de Consumidor Digital
+Agentes de IA precisam de interfaces diferentes das humanas:
+Documentação em Markdown, não GUIs.
+Comandos curl, não botões de ”clique aqui”.
+Arquivos llm.txt (como robots.txt).
+URLs amigáveis para LLMs.
+
+13 / 49
+
+Lições da Tesla e a Analogia do Homem de Ferro
+
+ Lições do Autopilot
+Autonomia parcial funciona.
+Autonomia total demora décadas.
+2025 não é o ”ano dos agentes”, é a
+década dos agentes.
+Humanos no loop são essenciais.
+
+¹ Analogia do Homem de Ferro
+Menos ”robôs autônomos”.
+Mais ”trajes de aumento”que
+amplificam a capacidade humana.
+O mesmo sistema pode ser uma
+ferramenta ou um agente.
+
+14 / 49
+
+Ney de Ferro
+
+15 / 49
+
+Resumo Executivo: Por Que Agora?
+Ç O Momento é Perfeito
+1
+2
+3
+4
+
+Há muito código para reescrever com os 3 paradigmas.
+Fluxo de tecnologia invertido: consumidores primeiro.
+Democratização sem precedentes do acesso.
+Estamos refazendo a computação do zero.
+
+Sua Missão
+Seja fluente nos três paradigmas. A próxima década será definida por produtos de
+autonomia parcial que balanceiam o poder da IA com a supervisão humana.
+
+16 / 49
+
+Interação humano–IA
+
+Instintivamente aplicamos a intentional stance a chatbots e robôs.
+Atribuı́mos agência e um ”self”narrativo mesmo sem evidência de fenomenologia.
+Consequências: confiança, responsabilização e expectativas sociais.
+
+17 / 49
+
+Forças da posição
+
+Explica por que usamos ”eu”e ”agente”pragmaticamente.
+Compatı́vel com evidências de desenvolvimento (linguagem, ToM).
+Útil para ética e design: agência percebida surge da interpretação.
+
+18 / 49
+
+Crı́ticas e fragilidades
+
+Fenomenologia: o problema do qualia — como é a vivência? (Chalmers, Nagel).
+Centro-de-gravidade pode omitir textura interoceptiva (sensação corporal).
+Necessidade de integrar mecanismos neurais concretos (insula, interocepção).
+
+19 / 49
+
+Integrações necessárias
+
+Conectar narrativa interpretativa com dados neurais e corporais.
+Modelos hı́bridos: narrativa + sinais interoceptivos + processamento distribuı́do.
+Para IAs: projetar pistas (embodied cues) que alinhem percepção social e
+limitações reais.
+
+20 / 49
+
+Implicações éticas e de design
+
+Se o self é narrativo, design pode manipular responsabilidade e confiança.
+Transparência: sinalizar que a agência percebida é uma heurı́stica interpretativa.
+Recomendações: metadados de confiança; limites claros; evitar manipulação
+emocional.
+
+21 / 49
+
+Flow: definição rápida
+
+Estado de imersão ótima onde desafio e habilidade se equilibram.
+Caracterı́sticas: foco intenso, perda de autoconsciência, distorção temporal,
+feedback imediato.
+Caracterı́sticas: foco intenso, perda de autoconsciência, distorção temporal,
+feedback imediato. W
+
+Ponto-chave
+Flow é autotelico — a atividade é a própria recompensa.
+
+22 / 49
+
+Flow na interação humano–IA
+
+IAs podem facilitar flow ao reduzir atrito e fornecer feedback em tempo real.
+Mecanismos úteis: scaffolding adaptativo, antecipação de necessidades, latência
+mı́nima.
+Exemplos: sugestões de código, assistentes de escrita, ambientes de tutoria
+adaptativa.
+
+23 / 49
+
+Self narrativo × Flow
+
+Durante flow, a sensação de ”eu”se torna fluida — menos foco narrativo, mais
+ação incorporada.
+Quando vemos a IA como ”parceira”(intentional stance), entregamo-nos mais ao
+fluxo.
+Risco: achar que a IA tem controle quando é apenas performance percebida
+(overtrust).
+
+24 / 49
+
+Design para promover flow com responsabilidade
+
+Transparência: sinalizar limites e fontes de sugestão da IA.
+Controle do usuário: ajustar nı́vel de proatividade e desligamento rápido.
+Evitar designs persuasivos que visem dependência; priorizar bem-estar e autonomia.
+¥
+
+25 / 49
+
+Medição e experimentos práticos
+
+Métricas: tempo em tarefa, erros, relato subjetivo de flow, sinais fisiológicos (ex.:
+HRV).
+Experimentos: variar frequência do feedback, proatividade e latência; medir
+mudança no desempenho e bem-estar.
+Integração futura: usar sinais interoceptivos para ajustar suporte em tempo real.
+
+26 / 49
+
+Perguntas rápidas para a plateia
+
+A IA deve otimizar seu design para nos colocar em flow? (sim — com limites)
+Como equilibrar produtividade e preservação do senso de agência?
+Quais protocolos garantem que ”flow”não vire manipulação?
+Flow + IA = potencial enorme; necessidade clara de regras de projeto e ética.
+
+27 / 49
+
+Otimizando Leitura e Compreensão
+
+_ Resumo Inteligente
+ChatGPT & Google Gemini
+Sintetiza artigos longos
+Extrai pontos-chave
+Responde perguntas especı́ficas
+Traduz textos complexos
+
+ Dica Prática
+Prompt eficaz:
+”Resuma este artigo em 3 parágrafos: 1)
+Objetivo do estudo, 2) Metodologia
+principal, 3) Conclusões e implicações”
+
+28 / 49
+
+Turbinando a Pesquisa Bibliográfica
+Û Ferramentas Especializadas
+¢ Consensus Extrai conclusões de estudos cientı́ficos
+Analisa milhares de artigos simultaneamente
+Identifica consensos na literatura
+ú Elicit Estrutura revisões de literatura
+Organiza automaticamente papers por tema
+Gera tabelas comparativas
+ ResearchRabbit Mapeia conexões entre artigos
+Visualiza evolução do conhecimento
+Descobre artigos relacionados
+
+29 / 49
+
+Otimizando Leitura e Compreensão
+
+_ Resumo Inteligente
+ChatGPT & Google Gemini
+Sintetiza artigos longos
+Extrai pontos-chave
+Responde perguntas especı́ficas
+Traduz textos complexos
+
+ Dica Prática
+Prompt eficaz:
+”Resuma este artigo em 3 parágrafos: 1)
+Objetivo do estudo, 2) Metodologia
+principal, 3) Conclusões e implicações”
+
+30 / 49
+
+Assistentes de Escrita Acadêmica
+v Jenni AI - Especialista em Escrita Acadêmica
+Casos de uso:
+Recursos principais:
+Superar bloqueio criativo
+ Elaboração de revisões de literatura
+Gerar esboços iniciais
+ Estruturação de seções
+Melhorar clareza do texto
+✓ Correção de estilo acadêmico
+Sugerir transições entre parágrafos
+° Gerenciamento de citações
+
+. Importante
+Sempre revise e personalize o conteúdo gerado pela IA!
+
+31 / 49
+
+Preparação de Apresentações
+ Criação de Slides e Roteiros
+1
+
+Transformação de conteúdo
+Documento $ Slides estruturados
+Texto corrido $ Tópicos organizados
+
+2
+
+Geração de roteiros
+Scripts para apresentação oral
+Timing e transições
+Exemplos e analogias
+
+3
+
+Adaptação para diferentes públicos
+Linguagem técnica vs. acessı́vel
+Diferentes nı́veis de profundidade
+32 / 49
+
+Engenharia de Prompt Eficaz
+Ð Estrutura de um Bom Prompt
+Fórmula: CONTEXTO + TAREFA + FORMATO + RESTRIÇÕES
+
+l Prompt Ruim
+”Me ajude com meu TCC”
+Problemas:
+Muito vago
+Sem contexto
+Sem direcionamento
+
+m Prompt Bom
+”Sou estudante de Psicologia escrevendo
+TCC sobre ansiedade em universitários.
+Preciso de um esboço para a revisão de
+literatura, incluindo: 1) Definições de
+ansiedade, 2) Prevalência em universitários,
+3) Fatores de risco. Formato: tópicos com
+subtópicos.”
+33 / 49
+
+Exemplos por Área do Conhecimento
+e Ciências Exatas
+Matemática/Fı́sica: ”Explique o teorema de Pitágoras usando 3 métodos diferentes
+de demonstração, incluindo exemplos práticos de aplicação em engenharia”
+
+Ciências Biológicas
+Biologia: ”Analise os últimos 5 anos de pesquisa sobre CRISPR-Cas9, identificando: 1)
+principais avanços, 2) limitações atuais, 3) aplicações clı́nicas promissoras”
+
+² Ciências Humanas
+História/Sociologia: ”Compare as causas socioeconômicas da Revolução Francesa
+com movimentos sociais contemporâneos, destacando semelhanças e diferenças”
+34 / 49
+
+Melhores Práticas
+
+¥ Faça
+Seja especı́fico nos pedidos
+Forneça contexto adequado
+Divida tarefas complexas
+Itere e refine prompts
+Valide informações
+
+q Evite
+Prompts muito genéricos
+Depender 100% da IA
+Não verificar resultados
+Usar sem citar
+Compartilhar dados sensı́veis
+
+35 / 49
+
+Integridade Acadêmica
+. Plágio e Autoria
+IA não é coautor - o trabalho intelectual é seu
+Sempre cite quando usar IA como ferramenta
+Transparência é fundamental
+Verifique polı́ticas da sua instituição
+
+° Como Citar IA
+Exemplo de citação:
+”Este resumo foi elaborado com auxı́lio do ChatGPT (OpenAI, 2024) para sı́ntese inicial
+do conteúdo, posteriormente revisado e adaptado pelo autor.”
+
+ Boa Prática
+Use IA como assistente, não como substituto do seu pensamento crı́tico!
+
+36 / 49
+
+Limitações da IA Generativa
+q ”Alucinações- Informações Falsas
+A IA pode gerar:
+Citações inexistentes
+Dados estatı́sticos falsos
+Fatos históricos incorretos
+Teorias cientı́ficas inventadas
+
+.
+SEMPRE VERIFIQUE
+EM FONTES CONFIÁVEIS!
+
+- Vieses nos Dados
+Viés cultural: Perspectiva predominantemente ocidental
+Viés temporal: Dados até data de corte do treinamento
+Viés social: Reproduz preconceitos dos dados de origem
+37 / 49
+
+Privacidade e Segurança
+µ Cuidados com Dados Pessoais
+NÃO compartilhe com IA:
+è Informações pessoais identificáveis
+ø Senhas ou dados de acesso
+@ Pesquisas em andamento (dados únicos)
+ Informações confidenciais da instituição
+u Dados sob sigilo ético ou legal
+
+✓ Diretrizes Institucionais
+Consulte as polı́ticas da sua universidade
+Consulte as polı́ticas da Unesp
+Verifique diretrizes especı́ficas do seu curso
+38 / 49
+
+Polı́tica de Inteligência Artificial da Unesp
+
+Objetivo Principal (Res. Unesp nº 13/2025, Art. 4º)
+Definir diretrizes claras para o uso, desenvolvimento e implementação de sistemas de
+Inteligência Artificial em todas as atividades da universidade.
+
+Princı́pio Fundamental (Art. 4º, I)
+² A IA deve apoiar e ampliar as capacidades humanas, não substituı́-las.
+
+39 / 49
+
+Diretrizes para o Uso Responsável
+
+¤ Supervisão Humana: Resultados gerados por IA devem ser sempre
+supervisionados por humanos para garantir precisão e adequação. (Art. 4º, II)
+
+40 / 49
+
+Diretrizes para o Uso Responsável
+
+¤ Supervisão Humana: Resultados gerados por IA devem ser sempre
+supervisionados por humanos para garantir precisão e adequação. (Art. 4º, II)
+s Transparência na Autoria: O uso de IA que impacte a autoria de produção
+intelectual deve ser comunicado de forma clara e pública. (Art. 4º, III)
+
+40 / 49
+
+Diretrizes para o Uso Responsável
+
+¤ Supervisão Humana: Resultados gerados por IA devem ser sempre
+supervisionados por humanos para garantir precisão e adequação. (Art. 4º, II)
+s Transparência na Autoria: O uso de IA que impacte a autoria de produção
+intelectual deve ser comunicado de forma clara e pública. (Art. 4º, III)
+8 Proteção de Direitos: É imperativo garantir que a aplicação da IA não
+prejudique direitos fundamentais, a privacidade e a dignidade humana. (Art. 4º, IV)
+
+40 / 49
+
+Avaliação de Riscos e Impacto
+
+X Análise Prévia (Art. 4º, V)
+Antes de implementar qualquer sistema de IA, deve-se realizar uma avaliação completa
+dos riscos e impactos potenciais, incluindo vieses e falhas.
+
+ Impacto Socioambiental (Art. 4º, VI)
+Considerar os impactos sociais, econômicos e ambientais do ciclo de vida da tecnologia,
+desde o treinamento dos modelos até o seu descarte.
+
+41 / 49
+
+Aplicações e Governança da IA na Unesp
+
+Usos Previstos (Art. 6º)
+` Aprimoramento do ensino
+e Potencialização da pesquisa
+² Expansão da extensão
+ Fomento à inovação
+Ô Otimização da gestão
+
+Governança (Art. 8º)
+Será implementada uma estrutura de
+governança para garantir o cumprimento
+das diretrizes, monitorar o uso da IA e
+propor atualizações à polı́tica.
+
+42 / 49
+
+Incentivo à Inovação em IA (Art. 7º)
+
+Fomento ao Ecossistema de Inovação
+Pesquisa: Incentivo ao desenvolvimento de projetos de pesquisa e inovação em IA.
+(I)
+Parcerias: Colaborações com entidades externas devem seguir os princı́pios da
+Resolução, mantendo a autonomia da Unesp. (II, III)
+Empreendedorismo: Apoio à criação de startups e spin-offs de base tecnológica
+em IA. (IV)
+
+43 / 49
+
+IA como Ferramenta de Produtividade
+Ç Transformação do Mercado de Trabalho
+Automação de tarefas repetitivas
+Aumento da produtividade individual
+Criação de novas profissões
+Transformação de funções existentes
+
++ Profissões Emergentes
+Prompt Engineer
+AI Trainer
+AI Ethics Specialist
+AI-Human Collaboration Designer
+
+L Profissões Transformadas
+Designer + AI
+Escritor + AI
+Pesquisador + AI
+Professor + AI
+44 / 49
+
+Novas Habilidades Necessárias
+
+j Habilidades do Futuro
+j Pensamento Crı́tico Avaliar e validar informações geradas por IA
+ Criatividade Usar IA como ferramenta para amplificar ideias humanas
+± Colaboração Humano-IA Saber quando e como usar IA efetivamente
+Ü Prompt Engineering Comunicar-se eficazmente com sistemas de IA
+8 Ética Digital Usar tecnologia de forma responsável
+
+45 / 49
+
+Aprendizagem Contı́nua
+ Mantenha-se Atualizado
+\ Fontes Confiáveis:
+MIT Technology Review
+Nature AI
+ArXiv (Computer Science)
+OpenAI Blog
+Google AI Blog
+
+² Comunidades:
+Reddit r/MachineLearning
+Discord de IA
+LinkedIn grupos de IA
+Conferences (NeurIPS, ICML)
+Cursos online (Coursera, edX)
+
+z Estratégia
+Dedique 30 minutos por semana para se atualizar sobre IA!
+46 / 49
+
+Resumo dos Pontos Principais
+ Principais Takeaways
+1
+2
+3
+4
+5
+
+IA Generativa é uma ferramenta poderosa para estudos
+Ferramentas especializadas otimizam pesquisa e escrita
+Prompts eficazes são essenciais para bons resultados
+Uso ético garante integridade acadêmica
+Aprendizagem contı́nua é fundamental para o futuro
+
+s Mensagem Final
+IA não substitui o pensamento humano
+Ela amplifica suas capacidades!
+47 / 49
+
+Sessão de Perguntas e Respostas
+
+®
+Perguntas?
+# contato@universidade.edu.br
+ www.universidade.edu.br/ia
+ï @universidade
+# contato.ia@unesp.br
+ www.unesp.br/ia
+ï @unespoficial
+48 / 49
+
+♥
+Obrigado pela atenção!
+Que a IA seja sua aliada na jornada acadêmica!
+
+Æ j 
+
+49 / 49
+
+

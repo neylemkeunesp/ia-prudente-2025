@@ -1,0 +1,142 @@
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#f0f8ff', 'edgeLabelBackground':'#ffffff' }}}%%
+        graph TD
+            title[<b>Ferramentas de IA Generativa por Categoria</b>] --> A
+            class title diagram-title
+
+            A[Ferramentas de IA Generativa] --> B[Texto]
+            A --> C[Imagens e Vídeos]
+            A --> D[Áudio e Música]
+            A --> E[Código]
+            A --> F[Multimodal e Outros]
+            A --> G[Academia e Pesquisa]
+
+            %% --- TEXTO ---
+            B --> B1[Geração de Conteúdo]
+            B1 --> B1a["OpenAI GPT (ChatGPT, API)"]
+            B1 --> B1b[Google Bard/Gemini]
+            B1 --> B1c[Claude (Anthropic)]
+            B1 --> B1d[Jasper AI]
+            B1 --> B1e[Copy.ai]
+            B1 --> B1f[Writesonic]
+
+            B --> B2[Assistentes de Escrita]
+            B2 --> B2a["Grammarly (com IA)"]
+            B2 --> B2b[QuillBot]
+            B2 --> B2c[Notion AI]
+
+            %% --- IMAGENS E VÍDEOS ---
+            C --> C1[Geração de Imagens]
+            C1 --> C1a[Midjourney]
+            C1 --> C1b["DALL-E 2/3 (OpenAI)"]
+            C1 --> C1c[Stable Diffusion]
+            C1 --> C1d[Adobe Firefly]
+            C1 --> C1e[Canva Magic Tools]
+
+            C --> C2[Geração/Edição de Vídeos]
+            C2 --> C2a[RunwayML]
+            C2 --> C2b[Synthesys]
+            C2 --> C2c[HeyGen]
+            C2 --> C2d[Pika Labs]
+            C2 --> C2e["Sora (OpenAI) - Em breve"]
+
+            %% --- ÁUDIO E MÚSICA ---
+            D --> D1[Texto para Fala / Voz Sintética]
+            D1 --> D1a[ElevenLabs]
+            D1 --> D1b[Murf.ai]
+            D1 --> D1c["Descript (Overdub)"]
+            D1 --> D1d[Play.ht]
+
+            D --> D2[Geração de Música/Efeitos]
+            D2 --> D2a[Google MusicLM]
+            D2 --> D2b[AIVA]
+            D2 --> D2c[Soundraw]
+            D2 --> D2d[Boomy]
+            D2 --> D2e[Sunno.ai]
+
+            %% --- CÓDIGO (EXPANDIDO) ---
+            E --> E1[Editores com IA Integrada]
+            E1 --> E1a["Cursor (VSCode fork com IA nativa)"]
+            E1 --> E1b["GitHub Copilot in VS Code / JetBrains"]
+            E1 --> E1c["Windsurf (ex-Codium) - IA colaborativa"]
+            E1 --> E1d["Replit (Ghostwriter + ambiente online)"]
+            E1 --> E1e["Codeium (gratuito, multi-IDE)"]
+
+            E --> E2[Plugins e Extensões de IA]
+            E2 --> E2a["Tabnine (VSCode, JetBrains, Vim, etc.)"]
+            E2 --> E2b["Amazon CodeWhisperer (VSCode, JetBrains)"]
+            E2 --> E2c["Sourcegraph Cody (busca + autocomplete semântico)"]
+            E2 --> E2d["Continue.dev (open-source, auto-complete local)"]
+            E2 --> E2e["Aider (edita código via chat no terminal)"]
+            E2 --> E2f["MagicPython + GPT (plugins experimentais)"]
+
+            E --> E3[Ferramentas de Terminal / CLI com IA]
+            E3 --> E3a["Aider (edita arquivos via prompt no terminal)"]
+            E3 --> E3b["CodeGPT (CLI + API para gerar código)"]
+            E3 --> E3c["ShellGPT (gpT no shell: sgpt --shell ""comando"")"]
+            E3 --> E3d["Navie (AppMap) - IA para debugging via terminal"]
+            E3 --> E3e["AskCode (pergunte sobre seu código local via CLI)"]
+            E3 --> E3f["Devika (agente autônomo de desenvolvimento)"]
+
+            E --> E4[Assistentes Locais / Offline]
+            E4 --> E4a["Ollama + CodeLlama/Mistral (rodando local)"]
+            E4 --> E4b["Continue.dev (roda local, suporta LLMs locais)"]
+            E4 --> E4c["LocalGPT para código (com RAG em projetos)"]
+            E4 --> E4d["StarCoder / DeepSeek Coder (modelos open-source)"]
+
+            E --> E5[Revisão, Documentação e Debugging]
+            E5 --> E5a["CodeRabbit (revisão automatizada de PRs)"]
+            E5 --> E5b["Stepsize AI (rastreia débito técnico + documenta)"]
+            E5 --> E5c["Snyk Code / SonarQube (com IA para bugs e segurança)"]
+            E5 --> E5d["Codeium Explain (explicações selecionadas)"]
+            E5 --> E5e["Bloop (busca semântica em código + IA local)"]
+
+            %% --- MULTIMODAL E OUTROS ---
+            F --> F1[Plataformas Multimodais]
+            F1 --> F1a[Google Gemini]
+            F1 --> F1b[GPT-4V (OpenAI)]
+            F1 --> F1c[Claude 3 Opus (Anthropic)]
+
+            F --> F2[Design 3D e Modelagem]
+            F2 --> F2a["Blockade Labs (Skybox AI)"]
+            F2 --> F2b["Luma AI (Genie)"]
+            F2 --> F2c[Masterpiece Studio]
+            F2 --> F2d[Kaedim]
+
+            %% --- ACADEMIA E PESQUISA ---
+            G --> G1[Análise e Resumo de Artigos]
+            G1 --> G1a[Elicit]
+            G1 --> G1b[ResearchRabbit]
+            G1 --> G1c[Scite.ai]
+            G1 --> G1d[Connected Papers]
+            G1 --> G1e["Consensus (também em G2)"]
+
+            G --> G2[Geração de Textos Acadêmicos]
+            G2 --> G2a[Academia.edu AI]
+            G2 --> G2b[Consensus]
+            G2 --> G2c["ChatGPT/Bard - Brainstorming"]
+            G2 --> G2d["Perplexity AI (com fontes)"]
+
+            G --> G3[Revisão e Edição Acadêmica]
+            G3 --> G3a[Grammarly Premium]
+            G3 --> G3b[QuillBot]
+            G3 --> G3c["Trinka (especializada em acadêmico)"]
+
+            G --> G4[Visualização de Dados e Gráficos]
+            G4 --> G4a["Tableau + IA"]
+            G4 --> G4b["Excel + Copilot"]
+            G4 --> G4c["Power BI + IA"]
+            G4 --> G4d[GraphGPT]
+
+            %% --- Estilos ---
+            classDef category fill:#e6f7ff,stroke:#333,stroke-width:2px;
+            classDef tool fill:#fff,stroke:#ccc,stroke-width:1px;
+            classDef diagram-title fill:#005f9e,color:white,font-weight:bold,stroke:#005f9e,font-size:18px;
+
+            class A,B,C,D,E,F,G category
+            class B1,B2,C1,C2,D1,D2,E1,E2,E3,E4,E5,F1,F2,G1,G2,G3,G4 category
+            class B1a,B1b,B1c,B1d,B1e,B1f,B2a,B2b,B2c,
+                 C1a,C1b,C1c,C1d,C1e,C2a,C2b,C2c,C2d,C2e,
+                 D1a,D1b,D1c,D1d,D2a,D2b,D2c,D2d,D2e,
+                 E1a,E1b,E1c,E1d,E1e,E2a,E2b,E2c,E2d,E2e,E2f,E3a,E3b,E3c,E3d,E3e,E3f,E4a,E4b,E4c,E4d,E5a,E5b,E5c,E5d,E5e,
+                 F1a,F1b,F1c,F2a,F2b,F2c,F2d,
+                 G1a,G1b,G1c,G1d,G1e,G2a,G2b,G2c,G2d,G3a,G3b,G3c,G4a,G4b,G4c,G4d tool

@@ -1,0 +1,16 @@
+{
+  "name": "ia-prudente-2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@opendocsg/pdf2md": "^0.2.2",
+    "pdf2md-js": "^1.0.8"
+  }
+}
